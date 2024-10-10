@@ -1,2 +1,4 @@
 # Top Garden
-## This is a website for Top Garden, a landscaping company created by David Zavala
+## This is a website for Top Garden, a landscaping company 
+## created by David Zavala
+### Credit for Website Development: Leonardo Zavala-Jimenez
